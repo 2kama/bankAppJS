@@ -1,0 +1,8 @@
+.verifyForm,
+.registerForm,
+.settingsPage,
+.transferPage,
+.transactionsPage,
+.loggedInPage {
+    display: none !important;
+}
